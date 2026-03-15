@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://buy-ai-hardware.com/sitemap.xml
